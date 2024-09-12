@@ -1,12 +1,8 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Ebook</title>
-</head>
-<body>
-    <h1>Bem-vindo ao Meu Ebook</h1>
-    <p>Este é um exemplo de ebook gerado com IA e HTML.</p>
-</body>
-</html>
+# Meu Ebook com Imagens
+
+Este é um exemplo de ebook gerado com IA, usando **Markdown** e imagens.
+
+![Imagem Exemplo](images/exemplo.jpg)
+
+Acima está uma imagem ilustrativa incluída no ebook.
+
